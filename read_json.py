@@ -14,4 +14,4 @@ except:
   print("Ocorreu um erro!")
 
 finally:
-  print("Processo Concluido!")
+  print("Processo concluído!")
